@@ -15,21 +15,32 @@
 # example
 
 - On-Premises / by your self
-  - Applications
-  - Data
-  - Runtime
-  - Middleware
-  - O/S
-  - Virtualization
-  - Servers
-  - Storage
-  - Networking
+  1. Applications
+  2. Data
+  3. Runtime
+  4. Middleware
+  5. O/S
+  6. Virtualization
+  7. Servers
+  8. Storage
+  9. Networking
 - IaaS
-  - Applications
-  - Data
-  - Runtime
-  - Middleware
-  - O/S
+  1. Applications
+  2. Data
+  3. Runtime
+  4. Middleware
+  5. O/S
 - PaaS
-  - Applications
-  - Data
+  1. Applications
+  2. Data
+- SaaS
+  - nothing you have to do!
+
+# actual services
+
+- Infrastructure as a Service
+  - Amazon EC2(on AWS)
+  - GCP, Azure, Rackspace, Digital Ocean, etc.
+- Platform as a Service
+  - Elastic Beanstalk(on AWS)
+  - Heroku, Google App Engine, Window Azure(Microsoft)
