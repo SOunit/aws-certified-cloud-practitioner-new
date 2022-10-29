@@ -1,0 +1,9 @@
+- EBS volumes
+  - network drive attached to one EC2 instance at a time
+- AMI
+  - create ready-to-use EC2 instances with out customization
+- EC2 Image Builder
+  - automatically build, test, and distribute AMIs
+- EC2 Instance Store
+- EFS
+  - network file system
