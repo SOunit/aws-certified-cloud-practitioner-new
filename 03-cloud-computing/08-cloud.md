@@ -44,3 +44,6 @@
 - Platform as a Service
   - Elastic Beanstalk(on AWS)
   - Heroku, Google App Engine, Window Azure(Microsoft)
+- Software as Service
+  - Many AWS services(ex: Rekognition for Machine Learning)
+  - Google Apps(Gmail), Dropbox, Zoom
