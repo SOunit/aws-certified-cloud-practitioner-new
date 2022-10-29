@@ -2,5 +2,22 @@
   - AMI / OS
   - Instance Size / CPU + RAM
   - Storage
-  - security group
+  - Security group
   - EC2 User Data
+- Security group
+  - firewall attached to EC2 instance
+- EC2 User Data
+  - Script launched at the first start of instance
+- SSH
+  - start a terminal into our EC2 instances(port 22)
+- EC2 instance Role
+  - link to IAM roles
+- purchase options
+  - on-demand
+  - spot
+  - reserved
+    - standard
+    - convertible
+    - scheduled
+  - dedicated host
+  - dedicated instance
