@@ -1,0 +1,6 @@
+- EC2 instance / virtual server
+  - AMI / OS
+  - Instance Size / CPU + RAM
+  - Storage
+  - security group
+  - EC2 User Data
